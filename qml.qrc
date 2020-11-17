@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/transformers/TransfomerDelegate.qml</file>
+        <file>qml/singletons/AppFonts.qml</file>
+        <file>qml/singletons/qmldir</file>
+        <file>qml/pages/MainPage.qml</file>
+        <file>qml/controls/TitleText.qml</file>
+        <file>qml/controls/Overline.qml</file>
+        <file>qml/singletons/AppModels.qml</file>
+        <file>qml/controls/Divider.qml</file>
+        <file>qml/pages/ContentPage.qml</file>
+        <file>qml/pages/DetailsPage.qml</file>
+        <file>qml/sections/ContentSection.qml</file>
+        <file>qml/controls/DetailsText.qml</file>
+    </qresource>
+</RCC>
